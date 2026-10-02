@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide: Medicine Recommendation System",
+  "description": "An educational clinical decision-support tool providing symptom-based disease predictions, medicine insights, allergy warnings, and model benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
