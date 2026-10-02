@@ -33,7 +33,15 @@ _The demo runs on a free plan. If it has been idle, the first load can take abou
 
 ## Screenshots
 
-_Screenshots go here._
+<img width="1366" height="721" alt="Screenshot 2026-10-02 110335" src="https://github.com/user-attachments/assets/e1b88684-2a34-4af5-9f2c-bfec89667e53" />
+<img width="1366" height="768" alt="Screenshot 2026-10-02 112910" src="https://github.com/user-attachments/assets/9e01ee7a-5b94-4310-bf85-932e56452c01" />
+<img width="1366" height="768" alt="Screenshot 2026-10-02 112934" src="https://github.com/user-attachments/assets/8a6e9c1d-d39c-4b63-8bc4-66af466729cc" />
+<img width="1366" height="768" alt="Screenshot 2026-10-02 113021" src="https://github.com/user-attachments/assets/9eb7e828-c7dc-42d4-94c7-c8482ab2a608" />
+<img width="1366" height="768" alt="Screenshot 2026-10-02 113133" src="https://github.com/user-attachments/assets/7ad2d117-b53f-46bc-b1b2-9d0405867779" />
+
+
+
+
 
 ## Run Locally
 
